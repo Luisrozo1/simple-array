@@ -6,7 +6,7 @@ This is just for an exercise so here we are.
 - **Name:** luis jose rozo mattos
 - **Clan:** Macondo
 - **Email:** lrozomattos@gmail.com
-- **GitHub:** [TonyS-dev](https://github.com/TonyS-dev)
+- **GitHub:** [Luisrozo1](https://github.com/Luisrozo1)
 
 
 
